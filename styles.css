@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+p{
+	border-left: 8px solid green;
+	background-color:#f8fffe;
+	padding:15px;
+	font-weight: bold;	
+}
